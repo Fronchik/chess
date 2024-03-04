@@ -1,0 +1,5 @@
+.cards__airplane {
+    width: 376px;
+    height: 140px;
+    transform: rotate(-15deg);
+}

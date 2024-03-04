@@ -1,0 +1,11 @@
+.logo__title {
+    max-width: 147px;
+    min-height: 36px;
+
+    font-family: 'Golos Text';
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 108%;
+    text-transform: uppercase;
+    color: #595653;
+}

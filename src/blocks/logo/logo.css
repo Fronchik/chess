@@ -1,0 +1,11 @@
+.logo {
+    margin: 0 auto 0 72px; 
+    padding-top: 26px;
+    max-width: 245.17px;
+    min-height: 36px;
+    width: 100%;
+
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+}

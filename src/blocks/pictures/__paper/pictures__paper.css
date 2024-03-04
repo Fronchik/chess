@@ -1,0 +1,11 @@
+.pictures__paper {
+    width: 437.5px;
+    height: 405.57px;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    opacity: 80%;
+}

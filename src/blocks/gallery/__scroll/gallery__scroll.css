@@ -1,0 +1,8 @@
+.gallery__scroll {
+    max-width: 151px;
+    min-height: 44px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between
+}

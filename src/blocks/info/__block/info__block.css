@@ -1,0 +1,8 @@
+.info__block {
+    margin-bottom: 200px;
+    min-height: 527px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 44px;
+}

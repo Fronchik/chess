@@ -1,0 +1,5 @@
+.gallery__cards {
+    margin: 0 auto 140px;
+    display: flex;
+    gap: 20px;
+}

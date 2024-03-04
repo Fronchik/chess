@@ -1,0 +1,10 @@
+.pictures__horse {
+    width: 87.64px;
+    height: 148.92px;
+
+    position: absolute;
+    z-index: 6;
+    bottom: 11.68px;
+    left: 98.13px;
+    transform: rotate(145.05deg);
+}

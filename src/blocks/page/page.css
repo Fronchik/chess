@@ -1,0 +1,11 @@
+.page {
+  font-family: 'Golos Text', 'Merriweather', 'Montserrat', sans-serif;
+  max-width: 1366px;
+  margin: 0 auto;
+}
+
+@media (max-width: 375px) {
+  .page {
+    max-width: 375px;
+  }
+}

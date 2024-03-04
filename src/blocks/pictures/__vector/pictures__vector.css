@@ -1,0 +1,10 @@
+.pictures__vector {
+    width: 213.6px;
+    height: 245.10px;
+    position: absolute;
+    z-index: 5;
+    bottom: 0;
+    left: 0;
+
+    transform: rotate(-89.12deg);
+}

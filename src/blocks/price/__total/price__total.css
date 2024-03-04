@@ -1,0 +1,9 @@
+.price__total {
+    display: flex;
+    font-family: 'Golos Text';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 120%;
+    color: #313131;
+    align-items: center; 
+}

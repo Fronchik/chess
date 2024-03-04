@@ -1,0 +1,10 @@
+.price__span {
+    margin: 48px auto 0;
+    max-width: 704px;
+    min-height: 24px;
+    font-family: 'Golos Text';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 120%;
+    color: #3057a2;
+}

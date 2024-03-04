@@ -1,0 +1,13 @@
+.price__name {
+    min-height: 56px;
+    height: 100%;
+    display: flex;
+
+    font-family: 'Golos Text';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 120%;
+    color: #313131;
+    opacity: 0.7;
+    align-items: center; 
+}

@@ -1,0 +1,12 @@
+.gallery__title {
+    margin: 0;
+    max-width: 806px;
+    min-height: 65px;
+
+    font-family: 'Merriweather';
+    font-weight: 400;
+    font-size: 54px;
+    line-height: 120%;
+    text-transform: uppercase;
+    color: #313131;
+}

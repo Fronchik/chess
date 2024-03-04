@@ -1,0 +1,5 @@
+.gallery__scroll-right {
+    max-width: 44px;
+    min-height: 44px;
+    cursor: pointer;
+}

@@ -1,0 +1,12 @@
+.price__title {
+    margin: 0 auto 60px;
+    max-width: 704px;
+    min-height: 147px;
+    
+    font-family: 'Merriweather';
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 135%;
+    text-transform: uppercase;
+    color: #313131;
+}

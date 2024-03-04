@@ -1,0 +1,11 @@
+.headline__subtitle { 
+    margin: 24px 0 40px;
+    min-height: 46px;
+
+    font-family: 'Golos Text';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
+    text-align: center;
+    color: #313131;
+}

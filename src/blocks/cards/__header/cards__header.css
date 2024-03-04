@@ -1,0 +1,6 @@
+.cards__header {
+    max-width: 806px;
+    min-height: 130px;
+
+    display: grid;
+}

@@ -1,0 +1,23 @@
+.button__white {
+    padding: 0;
+    max-width: 263px;
+    min-height: 72px;
+    width: 100%;
+
+    font-family: 'Golos Text';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 130%;
+    text-align: center;
+    color: #1f1f1f;
+
+    border: 2px solid #1f1f1f;
+    border-radius: 66px;
+    cursor: pointer;
+}
+
+.button__white:hover {
+    color: #fff;
+    background: #1f1f1f;
+    transition: 1s;
+  }

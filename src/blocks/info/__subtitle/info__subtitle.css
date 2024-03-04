@@ -1,0 +1,10 @@
+.info__subtitle {
+    margin: 0;
+    font-family: 'Merriweather';
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 135%;
+    text-transform: uppercase;
+    color: #f54932;
+    text-align: left;
+}
